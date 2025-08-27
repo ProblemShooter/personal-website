@@ -1,4 +1,4 @@
-# Aaditya Jauhari's Portfolio ✨
+# Aaditya's Tech Safar: A Portfolio✨
 
 Welcome! This is the official repository for my personal portfolio website. Think of it as my digital playground where I bring ideas to life with code.
 
