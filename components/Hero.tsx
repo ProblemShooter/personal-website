@@ -1,5 +1,4 @@
 import React from 'react';
-
 // A component for the floating particles
 const Particle: React.FC<{ size: string; position: { top: string; left: string }; delay: string; duration: string }> = ({ size, position, delay, duration }) => {
     const style: React.CSSProperties = {
@@ -79,7 +78,7 @@ const Hero: React.FC = () => {
                         <div className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-600 to-blue-500 opacity-50"></div>
                         
                         <img 
-                            src="components\updated003.png" 
+                            src="/updated003.png"
                             alt="Aadtiya Jauhari"
                             className="relative w-full h-full object-cover rounded-full p-1.5"
                         />
