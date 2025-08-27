@@ -84,7 +84,7 @@ Want to run this on your own machine? Just follow these simple steps.
 
 I'm always open to connecting with fellow developers, recruiters, and tech enthusiasts. Feel free to reach out!
 
-- **LinkedIn:** []
+- **LinkedIn:** [https://www.linkedin.com/in/aaditya-jauhari/]
 - **Email:** [aadityajauhari01@gmail.com]
 
 Thanks again for visiting. Hope you liked what you saw!
