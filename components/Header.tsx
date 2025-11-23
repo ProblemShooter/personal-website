@@ -64,7 +64,7 @@ const Header: React.FC = () => {
         <header className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${scrolled ? 'bg-gray-900/80 backdrop-blur-sm shadow-lg' : 'bg-transparent'}`}>
             <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
                 <a href="#home" onClick={(e) => { e.preventDefault(); scrollToSection('home'); }} className="text-xl sm:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">
-                    Aadtiya Jauhari
+                    A.J
                 </a>
                 
                 <div className="hidden md:flex items-center space-x-6">
